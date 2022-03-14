@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 <!--
 **leobert-lan/leobert-lan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Android application & Java server bundles
+- 📫 How to reach me: [juejin.im](https://juejin.cn/user/2066737589654327)
+- 👀 Find my blogs: [github.io](https://leobert-lan.github.io/)
+
+
+![leobert's github stats](https://github-readme-stats.vercel.app/api?username=leobert-lan&show_icons=true&count_private=true)
