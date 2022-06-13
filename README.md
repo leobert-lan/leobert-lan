@@ -21,3 +21,46 @@ Here are some ideas to get you started:
 
 
 ![leobert's github stats](https://github-readme-stats.vercel.app/api?username=leobert-lan&show_icons=true&count_private=true)
+
+<table><tr><td valign="top" width="60%">
+
+## GitHub Activity
+<!-- githubActivity starts -->
+**2022-05-19** — opened issue [#43](https://github.com/leobert-lan/Blog/issues/43) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "初体验：Android工程师自建的第一个局域网文档系统"
+
+**2022-05-19** — closed issue [#25](https://github.com/leobert-lan/Blog/issues/25) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "（拒写）三思系列 | 我们是如何让一个列表页面的代码越来越少，越来越优雅的"
+
+**2022-05-19** — commented on [#25](https://github.com/leobert-lan/Blog/issues/25#issuecomment-1131368608) in [leobert-lan/Blog](https://github.com/leobert-lan/Blog)
+
+**2022-05-16** — closed issue [#42](https://github.com/leobert-lan/Blog/issues/42) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "Java多线程基础--线程的创建与线程池管理"
+
+**2022-05-16** — commented on [#42](https://github.com/leobert-lan/Blog/issues/42#issuecomment-1127339695) in [leobert-lan/Blog](https://github.com/leobert-lan/Blog)
+<!-- githubActivity ends -->
+</td><td valign="top" width="40%">
+
+## On My Blog
+<!-- blog starts -->
+**2022-05-16** — [Java多线程基础--线程的创建与线程池管理](https://juejin.cn/post/7098235227490746375)
+
+**2022-04-21** — [读书笔记：《简约至上--交互式设计四策略》](https://juejin.cn/post/7088618995036717086)
+
+**2022-04-10** — [三思系列：前人用GreenDao留下的坑，全线被扣了绩效](https://juejin.cn/post/7084803493290213406)
+
+**2022-03-29** — [Java多线程基础--线程生命周期与线程协作详解](https://juejin.cn/post/7080088772754292744)
+
+**2022-03-20** — [Java多线程系列--掌控面试，一文吃透Synchronized锁](https://juejin.cn/post/7076820950020259848)
+
+**2022-02-26** — [克服焦虑--图解JVM内存模型和JVM线程模型](https://juejin.cn/post/7068941257074016263)
+
+**2022-01-31** — [一份能帮助到你的2021年终总结](https://juejin.cn/post/7059215032747294734)
+
+**2021-12-22** — [孔乙己：你可知道页面和弹窗“通信“的方式有四种？](https://juejin.cn/post/7044166646696509453)
+
+**2021-11-01** — [白嫖一个优雅的类图生成工具](https://juejin.cn/post/7025235961801867278)
+
+**2021-09-08** — [Jetpack Compose | Compose 滑动列表真的需要使用LazyColumn吗？No No No!](https://juejin.cn/post/7005188848938385422)
+<!-- blog ends -->
+_More on [gitbook](https://leobert-lan.github.io/)_
+</td></tr></table>
+
+<sub><a href="https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/">Inspired by Simon Willison's auto-updating profile README.</a></sub>
