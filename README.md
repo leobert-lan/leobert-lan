@@ -31,10 +31,6 @@ Here are some ideas to get you started:
 **2022-05-19** — closed issue [#25](https://github.com/leobert-lan/Blog/issues/25) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "（拒写）三思系列 | 我们是如何让一个列表页面的代码越来越少，越来越优雅的"
 
 **2022-05-19** — commented on [#25](https://github.com/leobert-lan/Blog/issues/25#issuecomment-1131368608) in [leobert-lan/Blog](https://github.com/leobert-lan/Blog)
-
-**2022-05-16** — closed issue [#42](https://github.com/leobert-lan/Blog/issues/42) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "Java多线程基础--线程的创建与线程池管理"
-
-**2022-05-16** — commented on [#42](https://github.com/leobert-lan/Blog/issues/42#issuecomment-1127339695) in [leobert-lan/Blog](https://github.com/leobert-lan/Blog)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
