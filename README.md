@@ -31,10 +31,6 @@ Here are some ideas to get you started:
 **2022-06-20** — created repository on [leobert-lan/UniPlugin-Hello-AS](https://github.com/leobert-lan/UniPlugin-Hello-AS)
 
 **2022-05-19** — opened issue [#43](https://github.com/leobert-lan/Blog/issues/43) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "初体验：Android工程师自建的第一个局域网文档系统"
-
-**2022-05-19** — closed issue [#25](https://github.com/leobert-lan/Blog/issues/25) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "（拒写）三思系列 | 我们是如何让一个列表页面的代码越来越少，越来越优雅的"
-
-**2022-05-19** — commented on [#25](https://github.com/leobert-lan/Blog/issues/25#issuecomment-1131368608) in [leobert-lan/Blog](https://github.com/leobert-lan/Blog)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
