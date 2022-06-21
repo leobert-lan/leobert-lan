@@ -29,8 +29,6 @@ Here are some ideas to get you started:
 **2022-06-20** — created branch `master` on [leobert-lan/UniPlugin-Hello-AS](https://github.com/leobert-lan/UniPlugin-Hello-AS)
 
 **2022-06-20** — created repository on [leobert-lan/UniPlugin-Hello-AS](https://github.com/leobert-lan/UniPlugin-Hello-AS)
-
-**2022-05-19** — opened issue [#43](https://github.com/leobert-lan/Blog/issues/43) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "初体验：Android工程师自建的第一个局域网文档系统"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
