@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 
 ## On My Blog
 <!-- blog starts -->
+**2022-06-25** — [一起动手搭建"小清新式"、版本控制、持续集成的局域网文档系统](https://juejin.cn/post/7113005887790268430)
+
 **2022-05-16** — [Java多线程基础--线程的创建与线程池管理](https://juejin.cn/post/7098235227490746375)
 
 **2022-04-21** — [读书笔记：《简约至上--交互式设计四策略》](https://juejin.cn/post/7088618995036717086)
@@ -51,8 +53,6 @@ Here are some ideas to get you started:
 **2021-12-22** — [孔乙己：你可知道页面和弹窗“通信“的方式有四种？](https://juejin.cn/post/7044166646696509453)
 
 **2021-11-01** — [白嫖一个优雅的类图生成工具](https://juejin.cn/post/7025235961801867278)
-
-**2021-09-08** — [Jetpack Compose | Compose 滑动列表真的需要使用LazyColumn吗？No No No!](https://juejin.cn/post/7005188848938385422)
 <!-- blog ends -->
 _More on [gitbook](https://leobert-lan.github.io/)_
 </td></tr></table>
