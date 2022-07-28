@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-07-28** — opened issue [#45](https://github.com/leobert-lan/Blog/issues/45) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "Review | 这三个坑你遇到了吗？"
+
 **2022-07-21** — opened issue [#44](https://github.com/leobert-lan/Blog/issues/44) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "Review | 谈一谈在两个商业项目中使用MVI架构后的感受"
 
 **2022-07-18** — created tag `pandorarv_0.1.3` on [leobert-lan/Pandora](https://github.com/leobert-lan/Pandora)
