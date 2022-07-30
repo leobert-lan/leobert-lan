@@ -48,6 +48,8 @@ Here are some ideas to get you started:
 
 ## On My Blog
 <!-- blog starts -->
+**2022-07-31** — [Review | 和诸位分享下最近遇到的几个坑](https://juejin.cn/post/7126207584528236580)
+
 **2022-06-25** — [一起动手搭建"小清新式"、版本控制、持续集成的局域网文档系统](https://juejin.cn/post/7113005887790268430)
 
 **2022-05-16** — [Java多线程基础--线程的创建与线程池管理](https://juejin.cn/post/7098235227490746375)
@@ -65,8 +67,6 @@ Here are some ideas to get you started:
 **2022-01-31** — [一份能帮助到你的2021年终总结](https://juejin.cn/post/7059215032747294734)
 
 **2021-12-22** — [孔乙己：你可知道页面和弹窗“通信“的方式有四种？](https://juejin.cn/post/7044166646696509453)
-
-**2021-11-01** — [白嫖一个优雅的类图生成工具](https://juejin.cn/post/7025235961801867278)
 <!-- blog ends -->
 _More on [gitbook](https://leobert-lan.github.io/)_
 </td></tr></table>
