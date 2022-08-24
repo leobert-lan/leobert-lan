@@ -48,6 +48,8 @@ Here are some ideas to get you started:
 
 ## On My Blog
 <!-- blog starts -->
+**2022-08-24** — [谈一谈在两个商业项目中使用MVI架构后的感悟](https://juejin.cn/post/7135328592673636359)
+
 **2022-08-01** — [Review | 和诸位分享下最近遇到的几个坑](https://juejin.cn/post/7126207584528236580)
 
 **2022-06-25** — [一起动手搭建"小清新式"、版本控制、持续集成的局域网文档系统](https://juejin.cn/post/7113005887790268430)
@@ -65,8 +67,6 @@ Here are some ideas to get you started:
 **2022-02-26** — [克服焦虑--图解JVM内存模型和JVM线程模型](https://juejin.cn/post/7068941257074016263)
 
 **2022-01-31** — [一份能帮助到你的2021年终总结](https://juejin.cn/post/7059215032747294734)
-
-**2021-12-22** — [孔乙己：你可知道页面和弹窗“通信“的方式有四种？](https://juejin.cn/post/7044166646696509453)
 <!-- blog ends -->
 _More on [gitbook](https://leobert-lan.github.io/)_
 </td></tr></table>
