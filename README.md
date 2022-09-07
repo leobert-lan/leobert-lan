@@ -26,6 +26,14 @@ Here are some ideas to get you started:
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-07** — closed issue [#44](https://github.com/leobert-lan/Blog/issues/44) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "Review | 谈一谈在两个商业项目中使用MVI架构后的感受"
+
+**2022-09-07** — commented on [#44](https://github.com/leobert-lan/Blog/issues/44#issuecomment-1238789026) in [leobert-lan/Blog](https://github.com/leobert-lan/Blog)
+
+**2022-09-07** — commented on [#45](https://github.com/leobert-lan/Blog/issues/45#issuecomment-1238788348) in [leobert-lan/Blog](https://github.com/leobert-lan/Blog)
+
+**2022-09-07** — closed issue [#45](https://github.com/leobert-lan/Blog/issues/45) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "Review | 这三个坑你遇到了吗？"
+
 **2022-07-28** — opened issue [#45](https://github.com/leobert-lan/Blog/issues/45) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "Review | 这三个坑你遇到了吗？"
 
 **2022-07-21** — opened issue [#44](https://github.com/leobert-lan/Blog/issues/44) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "Review | 谈一谈在两个商业项目中使用MVI架构后的感受"
@@ -37,12 +45,6 @@ Here are some ideas to get you started:
 **2022-07-01** — created repository on [leobert-lan/chromium-src](https://github.com/leobert-lan/chromium-src)
 
 **2022-06-25** — closed issue [#43](https://github.com/leobert-lan/Blog/issues/43) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "初体验：Android工程师自建的第一个局域网文档系统"
-
-**2022-06-25** — commented on [#43](https://github.com/leobert-lan/Blog/issues/43#issuecomment-1166193029) in [leobert-lan/Blog](https://github.com/leobert-lan/Blog)
-
-**2022-06-25** — closed issue [#43](https://github.com/leobert-lan/Blog/issues/43) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "初体验：Android工程师自建的第一个局域网文档系统"
-
-**2022-06-25** — commented on [#43](https://github.com/leobert-lan/Blog/issues/43#issuecomment-1166192419) in [leobert-lan/Blog](https://github.com/leobert-lan/Blog)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
