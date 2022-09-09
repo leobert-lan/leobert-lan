@@ -43,8 +43,6 @@ Here are some ideas to get you started:
 **2022-07-18** — created tag `pandorarv_kt_0.0.5` on [leobert-lan/Pandora](https://github.com/leobert-lan/Pandora)
 
 **2022-07-01** — created repository on [leobert-lan/chromium-src](https://github.com/leobert-lan/chromium-src)
-
-**2022-06-25** — closed issue [#43](https://github.com/leobert-lan/Blog/issues/43) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "初体验：Android工程师自建的第一个局域网文档系统"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
