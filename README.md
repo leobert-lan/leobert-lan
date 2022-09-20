@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-20** — closed issue [#4](https://github.com/leobert-lan/ReportPrinter/issues/4) on [leobert-lan/ReportPrinter](https://github.com/leobert-lan/ReportPrinter): "增加ignore的exclude情况，以包含JDK、Android系统类"
+
 **2022-09-19** — opened issue [#4](https://github.com/leobert-lan/ReportPrinter/issues/4) on [leobert-lan/ReportPrinter](https://github.com/leobert-lan/ReportPrinter): "增加ignore的exclude情况，以包含JDK、Android系统类"
 
 **2022-09-13** — opened issue [#46](https://github.com/leobert-lan/Blog/issues/46) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "Java多线程系列--掌握Future，轻松获取异步任务结果"
@@ -43,8 +45,6 @@ Here are some ideas to get you started:
 **2022-07-21** — opened issue [#44](https://github.com/leobert-lan/Blog/issues/44) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "Review | 谈一谈在两个商业项目中使用MVI架构后的感受"
 
 **2022-07-18** — created tag `pandorarv_0.1.3` on [leobert-lan/Pandora](https://github.com/leobert-lan/Pandora)
-
-**2022-07-18** — created tag `pandorarv_kt_0.0.5` on [leobert-lan/Pandora](https://github.com/leobert-lan/Pandora)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
