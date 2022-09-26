@@ -39,8 +39,6 @@ Here are some ideas to get you started:
 **2022-09-07** — commented on [#45](https://github.com/leobert-lan/Blog/issues/45#issuecomment-1238788348) in [leobert-lan/Blog](https://github.com/leobert-lan/Blog)
 
 **2022-09-07** — closed issue [#45](https://github.com/leobert-lan/Blog/issues/45) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "Review | 这三个坑你遇到了吗？"
-
-**2022-07-28** — opened issue [#45](https://github.com/leobert-lan/Blog/issues/45) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "Review | 这三个坑你遇到了吗？"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
