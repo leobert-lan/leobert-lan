@@ -26,6 +26,10 @@ Here are some ideas to get you started:
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-26** — closed issue [#46](https://github.com/leobert-lan/Blog/issues/46) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "Java多线程系列--掌握Future，轻松获取异步任务结果"
+
+**2022-09-26** — commented on [#46](https://github.com/leobert-lan/Blog/issues/46#issuecomment-1257515912) in [leobert-lan/Blog](https://github.com/leobert-lan/Blog)
+
 **2022-09-20** — closed issue [#4](https://github.com/leobert-lan/ReportPrinter/issues/4) on [leobert-lan/ReportPrinter](https://github.com/leobert-lan/ReportPrinter): "增加ignore的exclude情况，以包含JDK、Android系统类"
 
 **2022-09-19** — opened issue [#4](https://github.com/leobert-lan/ReportPrinter/issues/4) on [leobert-lan/ReportPrinter](https://github.com/leobert-lan/ReportPrinter): "增加ignore的exclude情况，以包含JDK、Android系统类"
@@ -44,6 +48,8 @@ Here are some ideas to get you started:
 
 ## On My Blog
 <!-- blog starts -->
+**2022-09-26** — [Java多线程系列--掌握Future，轻松获取异步任务结果](https://juejin.cn/post/7147552484213719076)
+
 **2022-08-24** — [谈一谈在两个商业项目中使用MVI架构后的感悟](https://juejin.cn/post/7135328592673636359)
 
 **2022-08-01** — [Review | 和诸位分享下最近遇到的几个坑](https://juejin.cn/post/7126207584528236580)
@@ -61,8 +67,6 @@ Here are some ideas to get you started:
 **2022-03-20** — [Java多线程系列--掌控面试，一文吃透Synchronized锁](https://juejin.cn/post/7076820950020259848)
 
 **2022-02-26** — [克服焦虑--图解JVM内存模型和JVM线程模型](https://juejin.cn/post/7068941257074016263)
-
-**2022-01-31** — [一份能帮助到你的2021年终总结](https://juejin.cn/post/7059215032747294734)
 <!-- blog ends -->
 _More on [gitbook](https://leobert-lan.github.io/)_
 </td></tr></table>
