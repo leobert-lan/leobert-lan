@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-09-27** — created branch `foo` on [leobert-lan/DrawableWorkShop](https://github.com/leobert-lan/DrawableWorkShop)
+
 **2022-09-27** — opened issue [#47](https://github.com/leobert-lan/Blog/issues/47) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "Drawable+Animator，将优雅进行到底"
 
 **2022-09-26** — closed issue [#46](https://github.com/leobert-lan/Blog/issues/46) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "Java多线程系列--掌握Future，轻松获取异步任务结果"
@@ -43,8 +45,6 @@ Here are some ideas to get you started:
 **2022-09-07** — commented on [#44](https://github.com/leobert-lan/Blog/issues/44#issuecomment-1238789026) in [leobert-lan/Blog](https://github.com/leobert-lan/Blog)
 
 **2022-09-07** — commented on [#45](https://github.com/leobert-lan/Blog/issues/45#issuecomment-1238788348) in [leobert-lan/Blog](https://github.com/leobert-lan/Blog)
-
-**2022-09-07** — closed issue [#45](https://github.com/leobert-lan/Blog/issues/45) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "Review | 这三个坑你遇到了吗？"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
