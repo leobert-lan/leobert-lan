@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 ## On My Blog
 <!-- blog starts -->
-**2022-10-18** — [迟来的续集--Drawable+Animator，将优雅进行到底](https://juejin.cn/post/7155690991721119781)
+**2022-10-19** — [迟来的续集--Drawable+Animator，将优雅进行到底](https://juejin.cn/post/7155690991721119781)
 
 **2022-09-26** — [Java多线程系列--掌握Future，轻松获取异步任务结果](https://juejin.cn/post/7147552484213719076)
 
