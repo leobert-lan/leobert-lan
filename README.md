@@ -26,6 +26,10 @@ Here are some ideas to get you started:
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-20** — created branch `dev` on [leobert-lan/Mocker](https://github.com/leobert-lan/Mocker)
+
+**2022-10-20** — created tag `v_1.0.0` on [leobert-lan/Mocker](https://github.com/leobert-lan/Mocker)
+
 **2022-09-27** — created branch `foo` on [leobert-lan/DrawableWorkShop](https://github.com/leobert-lan/DrawableWorkShop)
 
 **2022-09-27** — opened issue [#47](https://github.com/leobert-lan/Blog/issues/47) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "Drawable+Animator，将优雅进行到底"
@@ -39,8 +43,6 @@ Here are some ideas to get you started:
 **2022-09-19** — opened issue [#4](https://github.com/leobert-lan/ReportPrinter/issues/4) on [leobert-lan/ReportPrinter](https://github.com/leobert-lan/ReportPrinter): "增加ignore的exclude情况，以包含JDK、Android系统类"
 
 **2022-09-13** — opened issue [#46](https://github.com/leobert-lan/Blog/issues/46) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "Java多线程系列--掌握Future，轻松获取异步任务结果"
-
-**2022-09-07** — closed issue [#44](https://github.com/leobert-lan/Blog/issues/44) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "Review | 谈一谈在两个商业项目中使用MVI架构后的感受"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
