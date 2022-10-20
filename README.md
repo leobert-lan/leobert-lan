@@ -41,8 +41,6 @@ Here are some ideas to get you started:
 **2022-09-13** — opened issue [#46](https://github.com/leobert-lan/Blog/issues/46) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "Java多线程系列--掌握Future，轻松获取异步任务结果"
 
 **2022-09-07** — closed issue [#44](https://github.com/leobert-lan/Blog/issues/44) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "Review | 谈一谈在两个商业项目中使用MVI架构后的感受"
-
-**2022-09-07** — commented on [#44](https://github.com/leobert-lan/Blog/issues/44#issuecomment-1238789026) in [leobert-lan/Blog](https://github.com/leobert-lan/Blog)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
