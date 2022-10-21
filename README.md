@@ -41,8 +41,6 @@ Here are some ideas to get you started:
 **2022-09-20** — closed issue [#4](https://github.com/leobert-lan/ReportPrinter/issues/4) on [leobert-lan/ReportPrinter](https://github.com/leobert-lan/ReportPrinter): "增加ignore的exclude情况，以包含JDK、Android系统类"
 
 **2022-09-19** — opened issue [#4](https://github.com/leobert-lan/ReportPrinter/issues/4) on [leobert-lan/ReportPrinter](https://github.com/leobert-lan/ReportPrinter): "增加ignore的exclude情况，以包含JDK、Android系统类"
-
-**2022-09-13** — opened issue [#46](https://github.com/leobert-lan/Blog/issues/46) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "Java多线程系列--掌握Future，轻松获取异步任务结果"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
