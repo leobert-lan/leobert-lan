@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-10-25** — created tag `1.0.1-alpha` on [leobert-lan/Mocker](https://github.com/leobert-lan/Mocker)
+
 **2022-10-20** — created branch `dev` on [leobert-lan/Mocker](https://github.com/leobert-lan/Mocker)
 
 **2022-10-20** — created tag `v_1.0.0` on [leobert-lan/Mocker](https://github.com/leobert-lan/Mocker)
@@ -33,10 +35,6 @@ Here are some ideas to get you started:
 **2022-09-27** — created branch `foo` on [leobert-lan/DrawableWorkShop](https://github.com/leobert-lan/DrawableWorkShop)
 
 **2022-09-27** — opened issue [#47](https://github.com/leobert-lan/Blog/issues/47) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "Drawable+Animator，将优雅进行到底"
-
-**2022-09-26** — closed issue [#46](https://github.com/leobert-lan/Blog/issues/46) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "Java多线程系列--掌握Future，轻松获取异步任务结果"
-
-**2022-09-26** — commented on [#46](https://github.com/leobert-lan/Blog/issues/46#issuecomment-1257515912) in [leobert-lan/Blog](https://github.com/leobert-lan/Blog)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
