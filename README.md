@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 
 ## On My Blog
 <!-- blog starts -->
+**2022-11-17** — [杂篇（一）](https://juejin.cn/post/7166899226260013093)
+
 **2022-10-19** — [迟来的续集--Drawable+Animator，将优雅进行到底](https://juejin.cn/post/7155690991721119781)
 
 **2022-09-26** — [Java多线程系列--掌握Future，轻松获取异步任务结果](https://juejin.cn/post/7147552484213719076)
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
 **2022-04-10** — [三思系列：前人用GreenDao留下的坑，全线被扣了绩效](https://juejin.cn/post/7084803493290213406)
 
 **2022-03-29** — [Java多线程基础--线程生命周期与线程协作详解](https://juejin.cn/post/7080088772754292744)
-
-**2022-03-20** — [Java多线程系列--掌控面试，一文吃透Synchronized锁](https://juejin.cn/post/7076820950020259848)
 <!-- blog ends -->
 _More on [gitbook](https://leobert-lan.github.io/)_
 </td></tr></table>
