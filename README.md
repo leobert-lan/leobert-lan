@@ -27,8 +27,6 @@ Here are some ideas to get you started:
 ## GitHub Activity
 <!-- githubActivity starts -->
 **2022-10-25** — created tag `1.0.1-alpha` on [leobert-lan/Mocker](https://github.com/leobert-lan/Mocker)
-
-**2022-10-20** — created branch `dev` on [leobert-lan/Mocker](https://github.com/leobert-lan/Mocker)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
