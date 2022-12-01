@@ -29,8 +29,6 @@ Here are some ideas to get you started:
 **2022-11-28** — opened issue [#48](https://github.com/leobert-lan/Blog/issues/48) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "研究良久，终于发现了他代码写的快且bug少的原因"
 
 **2022-11-28** — closed issue [#47](https://github.com/leobert-lan/Blog/issues/47) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "Drawable+Animator，将优雅进行到底"
-
-**2022-10-25** — created tag `1.0.1-alpha` on [leobert-lan/Mocker](https://github.com/leobert-lan/Mocker)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
