@@ -26,6 +26,14 @@ Here are some ideas to get you started:
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-12-14** — opened issue [#8](https://github.com/leobert-lan/ReportPrinter/issues/8) on [leobert-lan/ReportPrinter](https://github.com/leobert-lan/ReportPrinter): "新增一个ER图工具？？？"
+
+**2022-12-14** — opened issue [#7](https://github.com/leobert-lan/ReportPrinter/issues/7) on [leobert-lan/ReportPrinter](https://github.com/leobert-lan/ReportPrinter): "类图工具编码优化"
+
+**2022-12-14** — opened issue [#6](https://github.com/leobert-lan/ReportPrinter/issues/6) on [leobert-lan/ReportPrinter](https://github.com/leobert-lan/ReportPrinter): "探索最优雅的添加注释信息的方式"
+
+**2022-12-14** — closed issue [#5](https://github.com/leobert-lan/ReportPrinter/issues/5) on [leobert-lan/ReportPrinter](https://github.com/leobert-lan/ReportPrinter): "生成失败"
+
 **2022-12-12** — closed issue [#48](https://github.com/leobert-lan/Blog/issues/48) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "研究良久，终于发现了他代码写的快且bug少的原因"
 
 **2022-12-12** — commented on [#48](https://github.com/leobert-lan/Blog/issues/48#issuecomment-1345753581) in [leobert-lan/Blog](https://github.com/leobert-lan/Blog)
@@ -37,8 +45,6 @@ Here are some ideas to get you started:
 **2022-12-05** — commented on [#5](https://github.com/leobert-lan/ReportPrinter/issues/5#issuecomment-1337460557) in [leobert-lan/ReportPrinter](https://github.com/leobert-lan/ReportPrinter)
 
 **2022-11-28** — opened issue [#48](https://github.com/leobert-lan/Blog/issues/48) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "研究良久，终于发现了他代码写的快且bug少的原因"
-
-**2022-11-28** — closed issue [#47](https://github.com/leobert-lan/Blog/issues/47) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "Drawable+Animator，将优雅进行到底"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
