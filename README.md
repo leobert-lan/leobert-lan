@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-12-17** — commented on [#5](https://github.com/leobert-lan/ReportPrinter/issues/5#issuecomment-1356120984) in [leobert-lan/ReportPrinter](https://github.com/leobert-lan/ReportPrinter)
+
 **2022-12-14** — created tag `class_diagram_1.0.2-alpha` on [leobert-lan/ReportPrinter](https://github.com/leobert-lan/ReportPrinter)
 
 **2022-12-14** — opened issue [#8](https://github.com/leobert-lan/ReportPrinter/issues/8) on [leobert-lan/ReportPrinter](https://github.com/leobert-lan/ReportPrinter): "新增一个ER图工具？？？"
@@ -43,8 +45,6 @@ Here are some ideas to get you started:
 **2022-12-06** — commented on [#5](https://github.com/leobert-lan/ReportPrinter/issues/5#issuecomment-1338687060) in [leobert-lan/ReportPrinter](https://github.com/leobert-lan/ReportPrinter)
 
 **2022-12-06** — commented on [#5](https://github.com/leobert-lan/ReportPrinter/issues/5#issuecomment-1338680738) in [leobert-lan/ReportPrinter](https://github.com/leobert-lan/ReportPrinter)
-
-**2022-12-05** — commented on [#5](https://github.com/leobert-lan/ReportPrinter/issues/5#issuecomment-1337460557) in [leobert-lan/ReportPrinter](https://github.com/leobert-lan/ReportPrinter)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
