@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2022-12-27** — opened issue [#49](https://github.com/leobert-lan/Blog/issues/49) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "好玩系列：让ImageSpan动起来"
+
 **2022-12-27** — created branch `feat/comment` on [leobert-lan/ReportPrinter](https://github.com/leobert-lan/ReportPrinter)
 
 **2022-12-27** — commented on [#6](https://github.com/leobert-lan/ReportPrinter/issues/6#issuecomment-1365649288) in [leobert-lan/ReportPrinter](https://github.com/leobert-lan/ReportPrinter)
@@ -43,8 +45,6 @@ Here are some ideas to get you started:
 **2022-12-14** — opened issue [#7](https://github.com/leobert-lan/ReportPrinter/issues/7) on [leobert-lan/ReportPrinter](https://github.com/leobert-lan/ReportPrinter): "类图工具编码优化"
 
 **2022-12-14** — opened issue [#6](https://github.com/leobert-lan/ReportPrinter/issues/6) on [leobert-lan/ReportPrinter](https://github.com/leobert-lan/ReportPrinter): "探索最优雅的添加注释信息的方式"
-
-**2022-12-14** — closed issue [#5](https://github.com/leobert-lan/ReportPrinter/issues/5) on [leobert-lan/ReportPrinter](https://github.com/leobert-lan/ReportPrinter): "生成失败"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
