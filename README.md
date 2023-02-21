@@ -50,6 +50,8 @@ Here are some ideas to get you started:
 
 ## On My Blog
 <!-- blog starts -->
+**2023-02-21** — [关于画一个句号--基于2022年终总结的反思与分享](https://juejin.cn/post/7202445722971537465)
+
 **2023-02-10** — [好玩系列：听说你的ImageSpan没能动起来？](https://juejin.cn/post/7197010875398635580)
 
 **2022-12-11** — [研究良久，终于发现了他代码写的快且bug少的原因](https://juejin.cn/post/7175772997582585917)
@@ -67,8 +69,6 @@ Here are some ideas to get you started:
 **2022-06-25** — [一起动手搭建"小清新式"、版本控制、持续集成的局域网文档系统](https://juejin.cn/post/7113005887790268430)
 
 **2022-05-16** — [Java多线程基础--线程的创建与线程池管理](https://juejin.cn/post/7098235227490746375)
-
-**2022-04-21** — [读书笔记：《简约至上--交互式设计四策略》](https://juejin.cn/post/7088618995036717086)
 <!-- blog ends -->
 _More on [gitbook](https://leobert-lan.github.io/)_
 </td></tr></table>
