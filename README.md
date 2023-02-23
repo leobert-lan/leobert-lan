@@ -26,6 +26,10 @@ Here are some ideas to get you started:
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-02-23** — closed issue [#51](https://github.com/leobert-lan/Blog/issues/51) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "关于画一个句号--基于2022年终总结的反思与分享"
+
+**2023-02-23** — commented on [#51](https://github.com/leobert-lan/Blog/issues/51#issuecomment-1441227602) in [leobert-lan/Blog](https://github.com/leobert-lan/Blog)
+
 **2023-02-13** — opened issue [#51](https://github.com/leobert-lan/Blog/issues/51) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "关于画一个句号--基于2022年终总结的反思与分享"
 
 **2023-02-13** — opened issue [#50](https://github.com/leobert-lan/Blog/issues/50) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "Java多线程系列--驾驭并发，Fork&Join框架，分治的艺术"
@@ -41,10 +45,6 @@ Here are some ideas to get you started:
 **2022-12-27** — created branch `feat/comment` on [leobert-lan/ReportPrinter](https://github.com/leobert-lan/ReportPrinter)
 
 **2022-12-27** — commented on [#6](https://github.com/leobert-lan/ReportPrinter/issues/6#issuecomment-1365649288) in [leobert-lan/ReportPrinter](https://github.com/leobert-lan/ReportPrinter)
-
-**2022-12-20** — commented on [#5](https://github.com/leobert-lan/ReportPrinter/issues/5#issuecomment-1358742764) in [leobert-lan/ReportPrinter](https://github.com/leobert-lan/ReportPrinter)
-
-**2022-12-20** — reopened issue [#5](https://github.com/leobert-lan/ReportPrinter/issues/5) on [leobert-lan/ReportPrinter](https://github.com/leobert-lan/ReportPrinter): "生成失败"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
