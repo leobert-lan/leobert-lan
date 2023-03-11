@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-03-11** — closed issue [#52](https://github.com/leobert-lan/Blog/issues/52) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "使用日历提升产品的用户体验"
+
 **2023-03-02** — opened issue [#52](https://github.com/leobert-lan/Blog/issues/52) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "使用日历提升产品的用户体验"
 
 **2023-03-02** — closed issue [#50](https://github.com/leobert-lan/Blog/issues/50) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "Java多线程系列--Fork&Join框架，分治的艺术"
@@ -43,8 +45,6 @@ Here are some ideas to get you started:
 **2023-02-07** — closed issue [#49](https://github.com/leobert-lan/Blog/issues/49) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "好玩系列：让ImageSpan动起来"
 
 **2023-02-07** — commented on [#49](https://github.com/leobert-lan/Blog/issues/49#issuecomment-1420141435) in [leobert-lan/Blog](https://github.com/leobert-lan/Blog)
-
-**2022-12-28** — created tag `core-1.1.5` on [leobert-lan/ReportPrinter](https://github.com/leobert-lan/ReportPrinter)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
