@@ -50,6 +50,8 @@ Here are some ideas to get you started:
 
 ## On My Blog
 <!-- blog starts -->
+**2023-03-13** — [杂篇（二）-- 认识并战胜焦虑](https://juejin.cn/post/7209906063418949693)
+
 **2023-03-07** — [使用日历丰富产品的用户体验](https://juejin.cn/post/7207648496978657341)
 
 **2023-02-27** — [Java多线程系列-- Fork&Join框架，分治的艺术](https://juejin.cn/post/7204782377348726840)
@@ -67,8 +69,6 @@ Here are some ideas to get you started:
 **2022-09-26** — [Java多线程系列--掌握Future，轻松获取异步任务结果](https://juejin.cn/post/7147552484213719076)
 
 **2022-08-24** — [谈一谈在两个商业项目中使用MVI架构后的感悟](https://juejin.cn/post/7135328592673636359)
-
-**2022-08-01** — [Review | 和诸位分享下最近遇到的几个坑](https://juejin.cn/post/7126207584528236580)
 <!-- blog ends -->
 _More on [gitbook](https://leobert-lan.github.io/)_
 </td></tr></table>
