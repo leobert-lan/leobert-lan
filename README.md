@@ -26,6 +26,12 @@ Here are some ideas to get you started:
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-03-17** — opened issue [#54](https://github.com/leobert-lan/Blog/issues/54) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "Java多线程系列--掌握CompletableFuture，驾驭异步编程"
+
+**2023-03-17** — commented on [#53](https://github.com/leobert-lan/Blog/issues/53#issuecomment-1473657939) in [leobert-lan/Blog](https://github.com/leobert-lan/Blog)
+
+**2023-03-17** — closed issue [#53](https://github.com/leobert-lan/Blog/issues/53) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "Hilt进阶--一文吃透Hilt自定义与跨壁垒"
+
 **2023-03-16** — created branch `master` on [leobert-lan/HiltWorkshop](https://github.com/leobert-lan/HiltWorkshop)
 
 **2023-03-16** — created repository on [leobert-lan/HiltWorkshop](https://github.com/leobert-lan/HiltWorkshop)
@@ -39,12 +45,6 @@ Here are some ideas to get you started:
 **2023-03-02** — closed issue [#50](https://github.com/leobert-lan/Blog/issues/50) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "Java多线程系列--Fork&Join框架，分治的艺术"
 
 **2023-03-02** — commented on [#50](https://github.com/leobert-lan/Blog/issues/50#issuecomment-1451329548) in [leobert-lan/Blog](https://github.com/leobert-lan/Blog)
-
-**2023-02-23** — closed issue [#51](https://github.com/leobert-lan/Blog/issues/51) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "关于画一个句号--基于2022年终总结的反思与分享"
-
-**2023-02-23** — commented on [#51](https://github.com/leobert-lan/Blog/issues/51#issuecomment-1441227602) in [leobert-lan/Blog](https://github.com/leobert-lan/Blog)
-
-**2023-02-13** — opened issue [#51](https://github.com/leobert-lan/Blog/issues/51) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "关于画一个句号--基于2022年终总结的反思与分享"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
