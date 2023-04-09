@@ -50,6 +50,8 @@ Here are some ideas to get you started:
 
 ## On My Blog
 <!-- blog starts -->
+**2023-04-09** — [掌握CompletableFuture，驾驭异步编程](https://juejin.cn/post/7219943233799159864)
+
 **2023-03-17** — [Hilt进阶--一文吃透Hilt自定义与跨壁垒](https://juejin.cn/post/7211400484103749687)
 
 **2023-03-13** — [杂篇（二）-- 认识并战胜焦虑](https://juejin.cn/post/7209906063418949693)
@@ -67,8 +69,6 @@ Here are some ideas to get you started:
 **2022-11-17** — [杂篇（一）](https://juejin.cn/post/7166899226260013093)
 
 **2022-10-19** — [迟来的续集--Drawable+Animator，将优雅进行到底](https://juejin.cn/post/7155690991721119781)
-
-**2022-09-26** — [Java多线程系列--掌握Future，轻松获取异步任务结果](https://juejin.cn/post/7147552484213719076)
 <!-- blog ends -->
 _More on [gitbook](https://leobert-lan.github.io/)_
 </td></tr></table>
