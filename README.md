@@ -50,6 +50,8 @@ Here are some ideas to get you started:
 
 ## On My Blog
 <!-- blog starts -->
+**2023-05-10** — [Java IO 系列总纲&系统IO模型](https://juejin.cn/post/7231540022595141693)
+
 **2023-04-09** — [掌握CompletableFuture，驾驭异步编程](https://juejin.cn/post/7219943233799159864)
 
 **2023-03-17** — [Hilt进阶--一文吃透Hilt自定义与跨壁垒](https://juejin.cn/post/7211400484103749687)
@@ -67,8 +69,6 @@ Here are some ideas to get you started:
 **2022-12-11** — [研究良久，终于发现了他代码写的快且bug少的原因](https://juejin.cn/post/7175772997582585917)
 
 **2022-11-17** — [杂篇（一）](https://juejin.cn/post/7166899226260013093)
-
-**2022-10-19** — [迟来的续集--Drawable+Animator，将优雅进行到底](https://juejin.cn/post/7155690991721119781)
 <!-- blog ends -->
 _More on [gitbook](https://leobert-lan.github.io/)_
 </td></tr></table>
