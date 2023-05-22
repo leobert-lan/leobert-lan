@@ -43,8 +43,6 @@ Here are some ideas to get you started:
 **2023-04-11** — created tag `v0.0.1` on [leobert-lan/ResolverExt](https://github.com/leobert-lan/ResolverExt)
 
 **2023-04-11** — created branch `main` on [leobert-lan/ResolverExt](https://github.com/leobert-lan/ResolverExt)
-
-**2023-04-11** — created repository on [leobert-lan/ResolverExt](https://github.com/leobert-lan/ResolverExt)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
