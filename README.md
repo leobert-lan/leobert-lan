@@ -35,10 +35,6 @@ Here are some ideas to get you started:
 **2023-04-23** — opened issue [#55](https://github.com/leobert-lan/Blog/issues/55) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "Java IO 系列"
 
 **2023-04-23** — closed issue [#54](https://github.com/leobert-lan/Blog/issues/54) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "Java多线程系列--掌握CompletableFuture，驾驭异步编程"
-
-**2023-04-19** — created branch `main` on [leobert-lan/BleModule](https://github.com/leobert-lan/BleModule)
-
-**2023-04-19** — created repository on [leobert-lan/BleModule](https://github.com/leobert-lan/BleModule)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
