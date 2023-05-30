@@ -29,10 +29,6 @@ Here are some ideas to get you started:
 **2023-04-26** — opened issue [#9](https://github.com/leobert-lan/ReportPrinter/issues/9) on [leobert-lan/ReportPrinter](https://github.com/leobert-lan/ReportPrinter): "类图工具设计问题"
 
 **2023-04-25** — opened issue [#56](https://github.com/leobert-lan/Blog/issues/56) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "Java IO | Blocking IO"
-
-**2023-04-23** — commented on [#55](https://github.com/leobert-lan/Blog/issues/55#issuecomment-1518927013) in [leobert-lan/Blog](https://github.com/leobert-lan/Blog)
-
-**2023-04-23** — opened issue [#55](https://github.com/leobert-lan/Blog/issues/55) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "Java IO 系列"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
