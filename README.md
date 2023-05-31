@@ -27,8 +27,6 @@ Here are some ideas to get you started:
 ## GitHub Activity
 <!-- githubActivity starts -->
 **2023-04-26** — opened issue [#9](https://github.com/leobert-lan/ReportPrinter/issues/9) on [leobert-lan/ReportPrinter](https://github.com/leobert-lan/ReportPrinter): "类图工具设计问题"
-
-**2023-04-25** — opened issue [#56](https://github.com/leobert-lan/Blog/issues/56) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "Java IO | Blocking IO"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
