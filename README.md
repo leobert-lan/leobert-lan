@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-04-26** — opened issue [#9](https://github.com/leobert-lan/ReportPrinter/issues/9) on [leobert-lan/ReportPrinter](https://github.com/leobert-lan/ReportPrinter): "类图工具设计问题"
+
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
