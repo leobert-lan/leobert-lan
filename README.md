@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-
+**2023-08-06** — closed issue [#56](https://github.com/leobert-lan/Blog/issues/56) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "Java IO | Blocking IO"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
