@@ -43,13 +43,13 @@ Here are some ideas to get you started:
 **2023-08-17** — created branch `okio-test` on [leobert-lan/ReportPrinter](https://github.com/leobert-lan/ReportPrinter)
 
 **2023-08-15** — created repository on [leobert-lan/GitxPage](https://github.com/leobert-lan/GitxPage)
-
-**2023-08-06** — closed issue [#56](https://github.com/leobert-lan/Blog/issues/56) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "Java IO | Blocking IO"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
 ## On My Blog
 <!-- blog starts -->
+**2023-08-27** — [IO系列 | 一文掌握OKHTTP中的OKIO为什么这么OK](https://juejin.cn/post/7271659132380282899)
+
 **2023-07-31** — [Java IO系列 | NIO-1.0拾遗、NIO-2.0 & 零拷贝必吹的牛皮](https://juejin.cn/post/7261162911616581691)
 
 **2023-06-05** — [Java IO 系列 | NIO-1.0一文速览](https://juejin.cn/post/7241118721170702395)
@@ -67,8 +67,6 @@ Here are some ideas to get you started:
 **2023-03-07** — [使用日历丰富产品的用户体验](https://juejin.cn/post/7207648496978657341)
 
 **2023-02-27** — [Java多线程系列-- Fork&Join框架，分治的艺术](https://juejin.cn/post/7204782377348726840)
-
-**2023-02-21** — [关于画一个句号--基于2022年终总结的反思与分享](https://juejin.cn/post/7202445722971537465)
 <!-- blog ends -->
 _More on [gitbook](https://leobert-lan.github.io/)_
 </td></tr></table>
