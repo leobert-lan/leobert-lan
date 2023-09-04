@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-09-04** — opened issue [#13](https://github.com/leobert-lan/ReportPrinter/issues/13) on [leobert-lan/ReportPrinter](https://github.com/leobert-lan/ReportPrinter): "notation、report-anno-compiler 1.1.5版本未同步到mavenCentral"
+
 **2023-08-26** — created tag `class_diagram_1.0.3-alpha` on [leobert-lan/ReportPrinter](https://github.com/leobert-lan/ReportPrinter)
 
 **2023-08-21** — closed issue [#11](https://github.com/leobert-lan/ReportPrinter/issues/11) on [leobert-lan/ReportPrinter](https://github.com/leobert-lan/ReportPrinter): "类图中增加namespace"
