@@ -37,8 +37,6 @@ Here are some ideas to get you started:
 **2023-08-18** — opened issue [#12](https://github.com/leobert-lan/ReportPrinter/issues/12) on [leobert-lan/ReportPrinter](https://github.com/leobert-lan/ReportPrinter): "疑似存在BUG：一个类被多个自定义ClassDiagram注解，只会有一个生效"
 
 **2023-08-18** — opened issue [#11](https://github.com/leobert-lan/ReportPrinter/issues/11) on [leobert-lan/ReportPrinter](https://github.com/leobert-lan/ReportPrinter): "类图中增加namespace"
-
-**2023-08-18** — closed issue [#10](https://github.com/leobert-lan/ReportPrinter/issues/10) on [leobert-lan/ReportPrinter](https://github.com/leobert-lan/ReportPrinter): "内部类表示问题"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
