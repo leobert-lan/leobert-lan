@@ -26,6 +26,10 @@ Here are some ideas to get you started:
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-11-27** — created branch `main` on [leobert-lan/SSE-Server-demo](https://github.com/leobert-lan/SSE-Server-demo)
+
+**2023-11-27** — created repository on [leobert-lan/SSE-Server-demo](https://github.com/leobert-lan/SSE-Server-demo)
+
 **2023-09-11** — closed issue [#13](https://github.com/leobert-lan/ReportPrinter/issues/13) on [leobert-lan/ReportPrinter](https://github.com/leobert-lan/ReportPrinter): "notation、report-anno-compiler 1.1.5版本未同步到mavenCentral"
 
 **2023-09-04** — opened issue [#13](https://github.com/leobert-lan/ReportPrinter/issues/13) on [leobert-lan/ReportPrinter](https://github.com/leobert-lan/ReportPrinter): "notation、report-anno-compiler 1.1.5版本未同步到mavenCentral"
