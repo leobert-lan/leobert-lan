@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-11-29** — created branch `retrofit-sse` on [leobert-lan/SSE-android-Demo](https://github.com/leobert-lan/SSE-android-Demo)
+
 **2023-11-27** — created branch `master` on [leobert-lan/SSE-android-Demo](https://github.com/leobert-lan/SSE-android-Demo)
 
 **2023-11-27** — created repository on [leobert-lan/SSE-android-Demo](https://github.com/leobert-lan/SSE-android-Demo)
