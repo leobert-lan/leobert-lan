@@ -26,24 +26,32 @@ Here are some ideas to get you started:
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2023-11-29** — created branch `retrofit-sse` on [leobert-lan/SSE-android-Demo](https://github.com/leobert-lan/SSE-android-Demo)
+**2023-11-30** — opened issue [#61](https://github.com/leobert-lan/Blog/issues/61) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "好玩系列 | 如果后端让你用SSE接收多次返回，那我们改造Retrofit吧"
 
-**2023-11-27** — created branch `master` on [leobert-lan/SSE-android-Demo](https://github.com/leobert-lan/SSE-android-Demo)
+**2023-11-30** — closed issue [#60](https://github.com/leobert-lan/Blog/issues/60) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "突如其来的秋季反思"
 
-**2023-11-27** — created repository on [leobert-lan/SSE-android-Demo](https://github.com/leobert-lan/SSE-android-Demo)
+**2023-11-30** — opened issue [#60](https://github.com/leobert-lan/Blog/issues/60) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "突如其来的秋季反思"
 
-**2023-11-27** — created branch `main` on [leobert-lan/SSE-Server-demo](https://github.com/leobert-lan/SSE-Server-demo)
+**2023-11-30** — closed issue [#59](https://github.com/leobert-lan/Blog/issues/59) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "IO系列 | 一文掌握OKHTTP中的OKIO为什么这么OK"
 
-**2023-11-27** — created repository on [leobert-lan/SSE-Server-demo](https://github.com/leobert-lan/SSE-Server-demo)
+**2023-11-30** — opened issue [#59](https://github.com/leobert-lan/Blog/issues/59) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "IO系列 | 一文掌握OKHTTP中的OKIO为什么这么OK"
 
-**2023-09-11** — closed issue [#13](https://github.com/leobert-lan/ReportPrinter/issues/13) on [leobert-lan/ReportPrinter](https://github.com/leobert-lan/ReportPrinter): "notation、report-anno-compiler 1.1.5版本未同步到mavenCentral"
+**2023-11-30** — closed issue [#58](https://github.com/leobert-lan/Blog/issues/58) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "Java IO系列 | NIO-1.0拾遗、NIO-2.0 & 零拷贝必吹的牛皮"
 
-**2023-09-04** — opened issue [#13](https://github.com/leobert-lan/ReportPrinter/issues/13) on [leobert-lan/ReportPrinter](https://github.com/leobert-lan/ReportPrinter): "notation、report-anno-compiler 1.1.5版本未同步到mavenCentral"
+**2023-11-30** — opened issue [#58](https://github.com/leobert-lan/Blog/issues/58) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "Java IO系列 | NIO-1.0拾遗、NIO-2.0 & 零拷贝必吹的牛皮"
+
+**2023-11-30** — closed issue [#55](https://github.com/leobert-lan/Blog/issues/55) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "Java IO 系列"
+
+**2023-11-30** — closed issue [#57](https://github.com/leobert-lan/Blog/issues/57) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "Java IO 系列 | NIO-1.0一文速览"
+
+**2023-11-30** — opened issue [#57](https://github.com/leobert-lan/Blog/issues/57) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "好玩系列 | 如果后端让你用SSE接收多次返回，那我们改造Retrofit吧"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
 ## On My Blog
 <!-- blog starts -->
+**2023-11-30** — [好玩系列 | 如果后端让你用SSE接收多次返回，那我们改造Retrofit吧](https://juejin.cn/post/7307066283710726170)
+
 **2023-10-04** — [突如其来的秋季反思](https://juejin.cn/post/7285373518837383223)
 
 **2023-08-29** — [IO系列 | 一文掌握OKHTTP中的OKIO为什么这么OK](https://juejin.cn/post/7271659132380282899)
@@ -61,8 +69,6 @@ Here are some ideas to get you started:
 **2023-03-17** — [Hilt进阶--一文吃透Hilt自定义与跨壁垒](https://juejin.cn/post/7211400484103749687)
 
 **2023-03-13** — [杂篇（二）-- 认识并战胜焦虑](https://juejin.cn/post/7209906063418949693)
-
-**2023-03-07** — [使用日历丰富产品的用户体验](https://juejin.cn/post/7207648496978657341)
 <!-- blog ends -->
 _More on [gitbook](https://leobert-lan.github.io/)_
 </td></tr></table>
