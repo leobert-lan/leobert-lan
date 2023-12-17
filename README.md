@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-12-17** — opened issue [#63](https://github.com/leobert-lan/Blog/issues/63) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "2023年总结 寻找到源于内心深处的无穷力量"
+
 **2023-12-17** — closed issue [#62](https://github.com/leobert-lan/Blog/issues/62) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "好玩系列 | 当SPI 和 设计模式、依赖注入发生碰撞，可以擦出怎样的火花"
 
 **2023-12-16** — opened issue [#62](https://github.com/leobert-lan/Blog/issues/62) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "好玩系列 | 当SPI 和 设计模式、依赖注入发生碰撞，可以擦出怎样的火花"
@@ -43,8 +45,6 @@ Here are some ideas to get you started:
 **2023-11-30** — opened issue [#60](https://github.com/leobert-lan/Blog/issues/60) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "突如其来的秋季反思"
 
 **2023-11-30** — closed issue [#59](https://github.com/leobert-lan/Blog/issues/59) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "IO系列 | 一文掌握OKHTTP中的OKIO为什么这么OK"
-
-**2023-11-30** — opened issue [#59](https://github.com/leobert-lan/Blog/issues/59) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "IO系列 | 一文掌握OKHTTP中的OKIO为什么这么OK"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
