@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2023-12-17** — closed issue [#62](https://github.com/leobert-lan/Blog/issues/62) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "好玩系列 | 当SPI 和 设计模式、依赖注入发生碰撞，可以擦出怎样的火花"
+
 **2023-12-16** — opened issue [#62](https://github.com/leobert-lan/Blog/issues/62) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "好玩系列 | 当SPI 和 设计模式、依赖注入发生碰撞，可以擦出怎样的火花"
 
 **2023-12-16** — closed issue [#61](https://github.com/leobert-lan/Blog/issues/61) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "好玩系列 | 如果后端让你用SSE接收多次返回，那我们改造Retrofit吧"
@@ -43,8 +45,6 @@ Here are some ideas to get you started:
 **2023-11-30** — closed issue [#59](https://github.com/leobert-lan/Blog/issues/59) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "IO系列 | 一文掌握OKHTTP中的OKIO为什么这么OK"
 
 **2023-11-30** — opened issue [#59](https://github.com/leobert-lan/Blog/issues/59) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "IO系列 | 一文掌握OKHTTP中的OKIO为什么这么OK"
-
-**2023-11-30** — closed issue [#58](https://github.com/leobert-lan/Blog/issues/58) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "Java IO系列 | NIO-1.0拾遗、NIO-2.0 & 零拷贝必吹的牛皮"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
