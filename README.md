@@ -50,6 +50,8 @@ Here are some ideas to get you started:
 
 ## On My Blog
 <!-- blog starts -->
+**2023-12-31** — [2023年总结 寻找到源于内心深处的无穷力量](https://juejin.cn/post/7317993627744436260)
+
 **2023-12-16** — [好玩系列 | 当SPI 和 设计模式、依赖注入发生碰撞，可以擦出怎样的火花](https://juejin.cn/post/7312749480674770980)
 
 **2023-11-30** — [好玩系列 | 如果后端让你用SSE接收多次返回，那我们改造Retrofit吧](https://juejin.cn/post/7307066283710726170)
@@ -67,8 +69,6 @@ Here are some ideas to get you started:
 **2023-05-10** — [Java IO 系列总纲&系统IO模型](https://juejin.cn/post/7231540022595141693)
 
 **2023-04-09** — [掌握CompletableFuture，驾驭异步编程](https://juejin.cn/post/7219943233799159864)
-
-**2023-03-17** — [Hilt进阶--一文吃透Hilt自定义与跨壁垒](https://juejin.cn/post/7211400484103749687)
 <!-- blog ends -->
 _More on [gitbook](https://leobert-lan.github.io/)_
 </td></tr></table>
