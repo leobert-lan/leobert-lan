@@ -39,8 +39,6 @@ Here are some ideas to get you started:
 **2023-12-16** — created repository on [leobert-lan/SPIDemo](https://github.com/leobert-lan/SPIDemo)
 
 **2023-11-30** — opened issue [#61](https://github.com/leobert-lan/Blog/issues/61) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "好玩系列 | 如果后端让你用SSE接收多次返回，那我们改造Retrofit吧"
-
-**2023-11-30** — closed issue [#60](https://github.com/leobert-lan/Blog/issues/60) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "突如其来的秋季反思"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
