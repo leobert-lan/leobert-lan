@@ -26,12 +26,22 @@ Here are some ideas to get you started:
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-08-06** — created branch `master` on [leobert-lan/QtRecyclerView](https://github.com/leobert-lan/QtRecyclerView)
 
+**2025-08-06** — created repository on [leobert-lan/QtRecyclerView](https://github.com/leobert-lan/QtRecyclerView)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
 ## On My Blog
 <!-- blog starts -->
+**2025-07-20** — [杂篇-有感而发，写于2025年7月](https://juejin.cn/post/7528553562117750830)
+
+**2025-03-29** — [推倒樊笼 -- 设计能力](https://juejin.cn/post/7486790718641045555)
+
+**2024-10-17** — [读书笔记 - 《团队管理》精华摘要](https://juejin.cn/post/7426035420729016330)
+
+**2024-08-21** — [向钱看，你需要想明白企业在为什么而付钱](https://juejin.cn/post/7405158045628547072)
+
 **2024-06-12** — [2024年年中思考，推倒樊笼重新出发](https://juejin.cn/post/7377694677275017216)
 
 **2023-12-31** — [2023年总结 寻找到源于内心深处的无穷力量](https://juejin.cn/post/7317993627744436260)
@@ -43,14 +53,6 @@ Here are some ideas to get you started:
 **2023-10-04** — [突如其来的秋季反思](https://juejin.cn/post/7285373518837383223)
 
 **2023-08-29** — [IO系列 | 一文掌握OKHTTP中的OKIO为什么这么OK](https://juejin.cn/post/7271659132380282899)
-
-**2023-07-31** — [Java IO系列 | NIO-1.0拾遗、NIO-2.0 & 零拷贝必吹的牛皮](https://juejin.cn/post/7261162911616581691)
-
-**2023-06-05** — [Java IO 系列 | NIO-1.0一文速览](https://juejin.cn/post/7241118721170702395)
-
-**2023-05-11** — [Java IO系列 | 经典 IO ，不掌握这些知识可说不过去](https://juejin.cn/post/7231804508082159675)
-
-**2023-05-10** — [Java IO 系列总纲&系统IO模型](https://juejin.cn/post/7231540022595141693)
 <!-- blog ends -->
 _More on [gitbook](https://leobert-lan.github.io/)_
 </td></tr></table>
