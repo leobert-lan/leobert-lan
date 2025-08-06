@@ -26,6 +26,10 @@ Here are some ideas to get you started:
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-08-06** — opened issue [#1](https://github.com/leobert-lan/QtRecyclerView/issues/1) on [leobert-lan/QtRecyclerView](https://github.com/leobert-lan/QtRecyclerView): "remove spacing in layoutmanager"
+
+**2025-08-06** — opened issue [#1](https://github.com/leobert-lan/leobert-lan/issues/1) on [leobert-lan/leobert-lan](https://github.com/leobert-lan/leobert-lan): "remove spacing in layoutmanager"
+
 **2025-08-06** — created branch `master` on [leobert-lan/QtRecyclerView](https://github.com/leobert-lan/QtRecyclerView)
 
 **2025-08-06** — created repository on [leobert-lan/QtRecyclerView](https://github.com/leobert-lan/QtRecyclerView)
