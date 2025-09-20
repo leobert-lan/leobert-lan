@@ -26,9 +26,7 @@ Here are some ideas to get you started:
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-08-21** — created branch `master` on [leobert-lan/MvpGeneratorPlugin](https://github.com/leobert-lan/MvpGeneratorPlugin)
 
-**2025-08-21** — created repository on [leobert-lan/MvpGeneratorPlugin](https://github.com/leobert-lan/MvpGeneratorPlugin)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
