@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 
 ## On My Blog
 <!-- blog starts -->
+**2025-09-28** — [好玩系列：脚本和插件使我快乐](https://juejin.cn/post/7554313421518766122)
+
 **2025-07-20** — [杂篇-有感而发，写于2025年7月](https://juejin.cn/post/7528553562117750830)
 
 **2025-03-29** — [推倒樊笼 -- 设计能力](https://juejin.cn/post/7486790718641045555)
@@ -49,8 +51,6 @@ Here are some ideas to get you started:
 **2023-11-30** — [好玩系列 | 如果后端让你用SSE接收多次返回，那我们改造Retrofit吧](https://juejin.cn/post/7307066283710726170)
 
 **2023-10-04** — [突如其来的秋季反思](https://juejin.cn/post/7285373518837383223)
-
-**2023-08-29** — [IO系列 | 一文掌握OKHTTP中的OKIO为什么这么OK](https://juejin.cn/post/7271659132380282899)
 <!-- blog ends -->
 _More on [gitbook](https://leobert-lan.github.io/)_
 </td></tr></table>
