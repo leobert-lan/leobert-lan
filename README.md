@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ## On My Blog
 <!-- blog starts -->
-**2025-09-28** — [好玩系列：脚本和插件使我快乐](https://juejin.cn/post/7554313421518766122)
+**2025-09-29** — [好玩系列：脚本和插件使我快乐](https://juejin.cn/post/7554313421518766122)
 
 **2025-07-20** — [杂篇-有感而发，写于2025年7月](https://juejin.cn/post/7528553562117750830)
 
