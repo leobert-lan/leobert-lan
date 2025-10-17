@@ -26,7 +26,9 @@ Here are some ideas to get you started:
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2025-09-24** — opened issue [#64](https://github.com/leobert-lan/Blog/issues/64) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "好玩系列：脚本和插件使我快乐"
 
+**2025-09-24** — closed issue [#63](https://github.com/leobert-lan/Blog/issues/63) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "2023年总结 寻找到源于内心深处的无穷力量"
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
