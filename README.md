@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-10-21** — created branch `main` on [leobert-lan/Pandora_CPP](https://github.com/leobert-lan/Pandora_CPP)
+
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
