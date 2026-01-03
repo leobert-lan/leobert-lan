@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2025-12-04** — created branch `master` on [leobert-lan/QtSerialPort](https://github.com/leobert-lan/QtSerialPort)
+
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
