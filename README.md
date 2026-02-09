@@ -26,12 +26,16 @@ Here are some ideas to get you started:
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-02-09** — opened issue [#65](https://github.com/leobert-lan/Blog/issues/65) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "2025年终总结"
+
 **2026-01-12** — created branch `master` on [leobert-lan/DyttSearch](https://github.com/leobert-lan/DyttSearch)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
 ## On My Blog
 <!-- blog starts -->
+**2026-02-10** — [2025年终总结](https://juejin.cn/post/7604709514130866222)
+
 **2025-09-29** — [好玩系列：脚本和插件使我快乐](https://juejin.cn/post/7554313421518766122)
 
 **2025-07-20** — [杂篇-有感而发，写于2025年7月](https://juejin.cn/post/7528553562117750830)
@@ -49,8 +53,6 @@ Here are some ideas to get you started:
 **2023-12-16** — [好玩系列 | 当SPI 和 设计模式、依赖注入发生碰撞，可以擦出怎样的火花](https://juejin.cn/post/7312749480674770980)
 
 **2023-11-30** — [好玩系列 | 如果后端让你用SSE接收多次返回，那我们改造Retrofit吧](https://juejin.cn/post/7307066283710726170)
-
-**2023-10-04** — [突如其来的秋季反思](https://juejin.cn/post/7285373518837383223)
 <!-- blog ends -->
 _More on [gitbook](https://leobert-lan.github.io/)_
 </td></tr></table>
