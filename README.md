@@ -27,8 +27,6 @@ Here are some ideas to get you started:
 ## GitHub Activity
 <!-- githubActivity starts -->
 **2026-02-09** — opened issue [#65](https://github.com/leobert-lan/Blog/issues/65) on [leobert-lan/Blog](https://github.com/leobert-lan/Blog): "2025年终总结"
-
-**2026-01-12** — created branch `master` on [leobert-lan/DyttSearch](https://github.com/leobert-lan/DyttSearch)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
