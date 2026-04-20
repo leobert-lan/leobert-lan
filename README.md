@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 
 ## GitHub Activity
 <!-- githubActivity starts -->
+**2026-04-20** — created branch `master` on [leobert-lan/segment-by-emotion](https://github.com/leobert-lan/segment-by-emotion)
+
 **2026-04-12** — created branch `master` on [leobert-lan/SthToEPub](https://github.com/leobert-lan/SthToEPub)
 
 **2026-03-30** — created branch `master` on [leobert-lan/MdToPdf](https://github.com/leobert-lan/MdToPdf)
@@ -34,6 +36,8 @@ Here are some ideas to get you started:
 
 ## On My Blog
 <!-- blog starts -->
+**2026-04-20** — [好玩系列：用20元实现快乐保存器](https://juejin.cn/post/7630685708931956790)
+
 **2026-02-10** — [2025年终总结](https://juejin.cn/post/7604709514130866222)
 
 **2025-09-29** — [好玩系列：脚本和插件使我快乐](https://juejin.cn/post/7554313421518766122)
@@ -51,8 +55,6 @@ Here are some ideas to get you started:
 **2023-12-31** — [2023年总结 寻找到源于内心深处的无穷力量](https://juejin.cn/post/7317993627744436260)
 
 **2023-12-16** — [好玩系列 | 当SPI 和 设计模式、依赖注入发生碰撞，可以擦出怎样的火花](https://juejin.cn/post/7312749480674770980)
-
-**2023-11-30** — [好玩系列 | 如果后端让你用SSE接收多次返回，那我们改造Retrofit吧](https://juejin.cn/post/7307066283710726170)
 <!-- blog ends -->
 _More on [gitbook](https://leobert-lan.github.io/)_
 </td></tr></table>
