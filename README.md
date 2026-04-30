@@ -26,9 +26,7 @@ Here are some ideas to get you started:
 
 ## GitHub Activity
 <!-- githubActivity starts -->
-**2026-04-20** — created branch `master` on [leobert-lan/segment-by-emotion](https://github.com/leobert-lan/segment-by-emotion)
 
-**2026-04-12** — created branch `master` on [leobert-lan/SthToEPub](https://github.com/leobert-lan/SthToEPub)
 <!-- githubActivity ends -->
 </td><td valign="top" width="40%">
 
